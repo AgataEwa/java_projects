@@ -17,6 +17,7 @@ public class Main {
 		// type 'get another card' or 'done' to choose
 		// the game ends when both you and computer stop drawing cards
 		// computer stop taking new cards once he's hand value reaches 17
+		// you only see computers' first two cards!
 		//
 		// Good luck!
 
